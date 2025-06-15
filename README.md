@@ -1,6 +1,8 @@
 # Production-and-Inventory-Analysis-Dashboard-using-Power-Bi
 📊 Production and Inventory Analysis Dashboard Project
-📍 Project Overview
+
+Project Overview
+
 As part of my data analytics and visualization journey, I developed a Production and Inventory Analysis Dashboard to help manufacturing stakeholders identify inefficiencies, track performance trends, and optimize resource planning. Using Power BI for dynamic dashboarding and Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) for exploratory data analysis (EDA) and preprocessing, this project transforms raw production data into actionable insights.
 This interactive reporting solution is tailored for both technical and non-technical audiences—from operations managers to supply chain executives—helping them make data-driven decisions with ease.
 
